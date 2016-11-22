@@ -1,0 +1,10 @@
+This is a list of features to be included in ma11y accessible mail client.
+1.  Include an option to read messages in an existing window
+	a. What kind of edit program for editing messagess should we use?
+2.  I would like to see menu driven with key commands for basic functions and optional key-commands next to the menu name.
+3.  let's have support for multiple accounts on same servers and simple way to switch to other profile for accounts on other servers.
+4.  And of course we should have imap or pop3 with options for the varius common secure or insecure protocol options.
+5.  I would consider these other things:
+	a. Do we want automatic mail sorting and spamm filter?
+	b. Consider whether magnification is built-in.
+c. Menubar should be a toggle option with the standard f-10 to access the menus.
